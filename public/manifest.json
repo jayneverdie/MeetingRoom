@@ -1,0 +1,13 @@
+{
+	"short_name": "Moodang",
+	"name": "Moodang",
+	"icons": [
+		{
+			"src": "/assets/img/logo.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		}
+	],
+	"display": "standalone",
+	"start_url": "/"
+}
